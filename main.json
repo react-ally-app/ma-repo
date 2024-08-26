@@ -1,0 +1,96 @@
+{
+  "github_url": "https://react-ally-app.github.io/ma-data/",
+  "vercel_api": "https://mongodb-ally-website.vercel.app",
+  "projects_url": "https://leetcode-ally.github.io/leetcode-ally-github/projects.json",
+  "send_email_api": "https://send-email-api-taupe.vercel.app/",
+  "otp_endpoint": "send-email",
+  "featured_endpoint": "send-featured-email",
+  "get_featured_endpoint": "featured-info",
+  "update_email_sheet": "https://script.google.com/macros/s/AKfycbx91LVKx48a439GpED4JmMz-w9XQ99jNKwM77hG8HRJItrGWJbFbESCnSdto23neY8WGA/exec",
+  "otp_sign_in_enabled": true,
+  "videos_enabled": false,
+  "latest_version": 2,
+  "mandatory": true,
+  "flag": 0,
+  "feedback": {
+    "msg": "",
+    "url": "",
+    "options": [],
+    "url_text": ""
+  },
+  "msg": "",
+  "download_url": "",
+  "options": [],
+  "app_url": "https://play.google.com/store/apps/details?id=com.mongosimplifier",
+  "app_name": "MongoDB Ally",
+  "release_features": [],
+  "gmail": "ethos.typos.ally@gmail.com",
+  "downTimeAlert": {
+    "showDownTimeAlert": false,
+    "heading": "Notice",
+    "subheading": "App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Please report to us",
+      "subject": "App is down for maintenance",
+      "body": "",
+      "email": "ethos.typos.ally@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    }
+  },
+  "apiFailAlert": {
+    "heading": "Notice",
+    "subheading": "There is some technical issue. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Report to us",
+      "subject": "App is unable to fetch data",
+      "body": "",
+      "email": "ethos.typos.ally@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    }
+  },
+  "updateAlert": {
+    "heading": "Update",
+    "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
+    "showMailBox": false,
+    "mailBox": {},
+    "showList": false,
+    "list": []
+  },
+  "rateAlert": {
+    "heading": "Rate Us",
+    "subheading": "Your rating empowers us to create a better app tailored to your needs. Share your thoughts now and be a part of the journey!",
+    "mailBoxPlaceholder": "Please share your feedback",
+    "mailSubject": "Feedback for MongoDB Ally"
+  },
+  "messageAlert": {
+    "showMessageAlert": false,
+    "heading": "Message",
+    "subheading": "We have a new app check it out now",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Write to us",
+      "subject": "",
+      "email": "ethos.typos.ally@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Submit"
+    },
+    "showUrl": true,
+    "urlData": {
+      "url": "www.google.com",
+      "text": "Open"
+    }
+  },
+  "carousel": {
+    "showCarousel": false,
+    "banners": []
+  },
+  "loginCarousel": {
+    "showCarousel": false,
+    "banners": []
+  },
+  "showTestimonials": false
+}
